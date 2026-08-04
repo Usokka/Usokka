@@ -5,7 +5,7 @@
 
 ### 🎓 About Me
 
-- 🧑‍💻 22 y/o CS student, currently finishing my **L3 at Université Clermont Auvergne**, moving on to an **M1 Informatique at Lyon 1**
+- 🧑‍💻 22 y/o CS student, currently finishing my **L3 at Université Clermont Auvergne**, moving on to an **M1 Informatique at Paris Cergy**
 - 🔍 Actively looking for a **24-month alternance** in **fullstack development** or **DevOps / infrastructure**
 - ⚙️ I like understanding what happens *under the hood* — from async I/O and networking to container orchestration
 - 🌱 Currently sharpening my skills in **TypeScript, React, Docker, and system-level programming (C++)**
