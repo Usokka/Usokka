@@ -10,23 +10,19 @@
 - ⚙️ I like understanding what happens *under the hood* — from async I/O and networking to container orchestration
 - 🌱 Currently sharpening my skills in **TypeScript, React, Docker, and system-level programming (C++)**
 - 💬 Ask me about C++, async servers, Docker, React, or Spring Boot
-- 📫 Reach me via [LinkedIn](#) or check out my [portfolio](https://badisaourtilane.netlify.app/)
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/badis-aourtilane-643259292/) or check out my [portfolio](https://badisaourtilane.netlify.app/)
 
 ---
 
 ### 🚀 Featured Projects
 
-**🎬 [Netflix Clone](#)**
+**🎬 Netflix Clone**
 A full-stack streaming platform monorepo — Next.js frontend, Spring Boot microservices, a custom **C++ async streaming engine** (epoll, sendfile, zero-copy), PostgreSQL, Redis caching, and a complete DevOps pipeline (Docker Compose, Terraform, Ansible).
 `Next.js` `Spring Boot` `C++` `PostgreSQL` `Redis` `Docker` `Terraform`
 
 **⚡ Async HTTP/Streaming Engine (C++)**
 A high-performance async server built in C++ using `epoll`, non-blocking TCP I/O, and `sendfile` for zero-copy streaming, with Redis-backed caching. My deep dive into systems-level performance.
 `C++` `epoll` `Redis` `Networking`
-
-**🔎 DevRadar** (currently working on it)
-A GitHub API explorer built to master modern React patterns — custom hooks, `useReducer`, `useDebounce`, protected routes, and Axios interceptors.
-`React` `TypeScript` `Axios`
 
 **🍽️ QuickLiv**
 A food delivery app built with Flutter and Node.js, featuring JWT/OTP authentication and a Clean Architecture design.
