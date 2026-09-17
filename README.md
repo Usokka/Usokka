@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/badis-aourtilane-643259292/">LinkedIn</a> •
-  <a href="https://badisaourtilane.netlify.app/">Portfolio</a> •
+  <a href="https://usokka.github.io/portfolio/">Portfolio</a> •
   <a href="https://usokka.github.io/rift_analysis/">Rift Analyst</a>
 </p>
 
