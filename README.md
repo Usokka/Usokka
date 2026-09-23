@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Badis Aourtilane</h1>
 
-<h3 align="center">Data Engineering & Analytics | Building reliable pipelines and useful data products</h3>
+<h3 align="center">Software & Data Engineering  | Building reliable pipelines and useful products</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/badis-aourtilane-643259292/">LinkedIn</a> •
-  <a href="https://usokka.github.io/portfolio/">Portfolio</a> •
   <a href="https://usokka.github.io/rift_analysis/">Rift Analyst</a>
 </p>
 
@@ -13,7 +12,7 @@
 ### 👨‍💻 About Me
 
 * 🎓 M1 Computer Science student at **CY Cergy Paris Université**
-* 🔍 Looking for a **24-month apprenticeship** in **Data Engineering or Data Analytics**
+* 🔍 Looking for a **24-month apprenticeship** in **Data or Software Engineering**
 * 📍 Based in Pontoise, France — one week at university / one week in the company
 * ⚙️ Interested in data pipelines, data quality, analytics and backend systems
 * 🧠 I enjoy building projects from data ingestion to deployment
@@ -89,5 +88,5 @@ Full-stack real-estate ERP designed and deployed for **Hestia Solutions**, where
 ---
 
 <p align="center">
-  <i>Open to 24-month Data Engineering and Data Analytics apprenticeship opportunities.</i>
+  <i>Open to 24-month Data/Software Engineering and Data Analytics apprenticeship opportunities.</i>
 </p>
